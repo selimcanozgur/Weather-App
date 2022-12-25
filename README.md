@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# Weather App
 # Live: https://selim-weather-app.netlify.app
